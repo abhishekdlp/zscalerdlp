@@ -17,8 +17,7 @@ Credit Card number 10 : 5272997598666656
 
 Credit Card number 11 : 379692826671817
 Credit Card number 12 : 342067180876167
-  
-  
+    
   SSN	gender	birthdate	maiden name	last name	first name	address	city	state	zip	phone	email	cc_type	CCN	cc_cvc	cc_expiredate
 172-32-1176	m	4/21/1958	Smith	White	Johnson	10932 Bigge Rd	Menlo Park	CA	94025	408 496-7223	jwhite@domain.com	m	5270-4267-6450-5516	123	6/25/2010
 514-14-8905	f	12/22/1944	Amaker	Borden	Ashley	4469 Sherman Street	Goff	KS	66428	785-939-6046	aborden@domain.com	m	5370-4638-8881-3020	713	2/1/2011
